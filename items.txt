@@ -1,0 +1,38 @@
+adaptor	8	80
+adaptor(with charger)	  9	190
+ monitor   	6	   74
+barcode scanner 	8	 190
+printer 	15	900
+bluetooth headset	11	70
+bluetooth mobile keyboard 	6	 20
+card 4-Port usb hub	3	20
+dvd-rom  	2	  30
+comfort keyboard 	7	 10
+compact optical mouse 	5	  6
+kigston usb.8gb	2	  20
+cpu 	1	130
+cpu fan	4	8
+kingston usb.4gb 	10	  15
+cd-rom	13	9
+ethernet card 	8	 25
+fan and heat sink 	2	 120
+hard disk drive 	22	 26
+hard drive.2 terra 	9	 50
+headphone 	7	  18
+intel core i7 cpu	12	270
+kingston usb.8gb 	3	  280
+motherboard 	12	 400
+mouse pad 	2	   4
+network card 	7	  50	
+pc microphone 	12	  15
+power supply	3	58
+samsung monitor 	7	220
+sound card 	8	 33
+speaker	20	  35
+touch mouse 	5	 20
+touch pad 	8	  48
+video card 	4	 280
+video monitor 	5	 350
+wired modem router	21	92
+bluetooth wireless headset	2	80
+Laptop	3	2000.0
